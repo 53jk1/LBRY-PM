@@ -1,1 +1,1 @@
-# LBRY-PM
+# LBRY Project Manager
